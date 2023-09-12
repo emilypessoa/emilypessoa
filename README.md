@@ -23,7 +23,7 @@ Hoje, embora não tenha planos de seguir uma carreira profissional em programaç
 
 
 🌐 LinkedIn:  
-📷 Instagram: [emily.pessoa](https://www.instagram.com/emilyy.pessoa/)
+📷 Instagram: [emilyy.pessoa](https://www.instagram.com/emilyy.pessoa/)
 
 Estou sempre disponível para uma boa conversa ou colaboração. Se você compartilha da mesma paixão pela programação ou simplesmente quer trocar ideias, não hesite em entrar em contato. Juntos, podemos criar algo verdadeiramente mágico e inspirador no mundo da tecnologia! 🌟
 
