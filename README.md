@@ -1,10 +1,8 @@
 # 💕Sobre mim:
-Oi, sou a Emily, tenho 16 anos.👋
-
+Oi, sou a Emily, tenho 16 anos.👋  
 Eu sou alguém que tem um profundo amor pela programação e tecnologia. Embora eu não tenha a intenção de seguir uma carreira formal na área de desenvolvimento de software, minha paixão por codificação e criação de projetos digitais continua forte.
 
 👨‍💻 Apaixonada por Programação | 🌐 Exploradora de Novas Tecnologias 
-
 
 ## 🐱‍🚀Minha Jornada
 
@@ -24,8 +22,7 @@ Hoje, embora não tenha planos de seguir uma carreira profissional em programaç
 ### 🙆🏻‍♀️Contato
 
 
-🌐 LinkedIn:
-
+🌐 LinkedIn:  
 📷 Instagram: [emily.pessoa](https://www.instagram.com/emilyy.pessoa/)
 
 Estou sempre disponível para uma boa conversa ou colaboração. Se você compartilha da mesma paixão pela programação ou simplesmente quer trocar ideias, não hesite em entrar em contato. Juntos, podemos criar algo verdadeiramente mágico e inspirador no mundo da tecnologia! 🌟
